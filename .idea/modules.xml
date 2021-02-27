@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/army-service/army-service.iml" filepath="$PROJECT_DIR$/army-service/army-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic-rest/basic-rest.iml" filepath="$PROJECT_DIR$/basic-rest/basic-rest.iml" />
       <module fileurl="file://$PROJECT_DIR$/mast-cloud.iml" filepath="$PROJECT_DIR$/mast-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search-service/search-service.iml" filepath="$PROJECT_DIR$/search-service/search-service.iml" />
     </modules>
   </component>
 </project>
