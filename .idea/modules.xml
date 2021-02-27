@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Managing-Person/Managing-Person.iml" filepath="$PROJECT_DIR$/Managing-Person/Managing-Person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/army-service/army-service.iml" filepath="$PROJECT_DIR$/army-service/army-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-rest/basic-rest.iml" filepath="$PROJECT_DIR$/basic-rest/basic-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mast-cloud.iml" filepath="$PROJECT_DIR$/mast-cloud.iml" />
+    </modules>
+  </component>
+</project>
